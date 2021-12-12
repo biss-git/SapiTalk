@@ -1,0 +1,15 @@
+﻿{
+  "Strings": [
+    {
+      "Key": "voiceName",
+      "Name": "キャラクター",
+      "Description": "読み上げを行うキャラクター選択です。表示されても使えない場合もあります。",
+      "Value": "",
+      "DefaultValue": "",
+      "Type": "combobox",
+      "ComboItems": [],
+      "Order": 0,
+      "Hide": false
+    }
+  ]
+}
