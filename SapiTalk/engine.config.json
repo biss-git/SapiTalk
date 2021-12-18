@@ -5,6 +5,9 @@
   "AssemblyName": "SapiTalk.dll",
   "OS": "Windows",
   "Language": "Japanese",
+  "LibraryFormat": [
+    "WinTalkLibrary"
+  ],
   "AccentEnable": false,
   "AccentHide": true,
   "SubPresetEnable": false,
